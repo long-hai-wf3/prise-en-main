@@ -12,6 +12,7 @@
         <main>
             <section>
                 <h2>MA PREMIERE SECTION</h2>
+                <p>DU CONTENU POUR LA SECTION</p>
             </section>
         </main>
         <footer>
