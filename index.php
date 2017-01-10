@@ -12,7 +12,7 @@
         <main>
             <section>
                 <h2>MA PREMIERE SECTION</h2>
-                <p>DU CONTENU POUR LA SECTION</p>
+                <div>LE CONTENU CHANGE AVEC UNE BALISE DIV</div>
             </section>
         </main>
         <footer>
