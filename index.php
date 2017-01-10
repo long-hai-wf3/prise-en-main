@@ -3,6 +3,7 @@
     <head>
         <meta charset="utf-8" />
         <title>MON SITE AVEC GITHUB</title>
+        <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
     </head>
     <body>
         <header>
